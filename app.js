@@ -7,7 +7,7 @@ const bodyParser = require("body-parser");
 const routes = require("./routes/routes");
 
 //Port number
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3030;
 
 //Initializing express server.
 const app = express();
